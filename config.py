@@ -1,4 +1,4 @@
-TOKEN = "NzE4ODY2NDU2MDgyNzc2MDk1.Xtva6g.he6ZoprF0x-C5pqq0YJgHmD3c9U" # токен бота
+TOKEN = "NzE4ODY2NDU2MDgyNzc2MDk1.Xtv6fQ.eVPRaw6lOButtAb0H66Pr0jA_RQ" # токен бота
 
 POST_ID = 718880220215640124 #что то
 
